@@ -1,0 +1,3 @@
+[submodule "sisyphus"]
+	path = sisyphus
+	url = git@github.com:bamiesking/sisyphus.git
